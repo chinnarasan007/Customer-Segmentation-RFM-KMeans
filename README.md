@@ -102,7 +102,7 @@ Follow the steps below to run this project locally.
 
 ### 1 Clone the repository
 
-git clone https://github.com/yourusername/Customer-Segmentation-RFM-KMeans.git
+https://github.com/chinnarasan007/Customer-Segmentation-RFM-KMeans/tree/main
 
 ### 2 Navigate to the project folder
 
